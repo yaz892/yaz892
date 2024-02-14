@@ -1,6 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy Yazmani Ordoñez Mendez 👋</h1>
-<h2 align="center"><a href="https://yazmani.net">www.yazmani.net</a> 👋</h2>
+<h1 align="center">Hi! 👋 Soy Yazmani Ordoñez Mendez</h1>
+<h2 align="center"><a href="https://yazmani.net">www.yazmani.net</a></h2>
+<img src="https://drive.google.com/uc?export=download&id=1RRZKwNC-mpY1U51w1nHSmMr2nJdqqlfo" height=300px >
 </div>
 
 <!--
