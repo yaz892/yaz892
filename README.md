@@ -1,8 +1,13 @@
 <div align="center">
-<h1 align="center">Hi! 👋 Soy Yazmani Ordoñez Mendez</h1>
+<h1 align="center">Hi! 👋 I'am Yazmani Ordoñez Mendez from México</h1>
 <h2 align="center"><a href="https://yazmani.net">www.yazmani.net</a></h2>
 <img src="https://drive.google.com/uc?export=download&id=1RRZKwNC-mpY1U51w1nHSmMr2nJdqqlfo" height=300px >
 </div>
+<h1>About me</h1>
+<p>FrontEnd: I'm currently use HTML, CSS, JavaScript</p>
+<p>BackEnd: I'm currently use PHP, SQL Server</p>
+<h1>My Proyects</h1>
+<p>Under Construction...</p>
 
 <!--
 **yaz892/yaz892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
