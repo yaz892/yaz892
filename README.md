@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi! 👋 I'am Yazmani from México</h1>
+<h1 align="center">Hi! 👋 I'm Yazmani Ordoñez from México</h1>
 <h2 align="center"><a href="https://yazmani.net">www.yazmani.net</a></h2>
 <img src="https://drive.google.com/uc?export=download&id=1RRZKwNC-mpY1U51w1nHSmMr2nJdqqlfo" height=300px >
 </div>
